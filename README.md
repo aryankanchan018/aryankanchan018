@@ -1,60 +1,72 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3cTF5b2J5YTI1bGxqN2F6N2hlN3FvMzA0Z2Y0YWw4NG5laDhoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
 # 👋 Hi, I'm Aryan Kanchan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Analytics+Student;Machine+Learning+Engineer+in+Progress;Computer+Vision+Developer;Full+Stack+Development+Learner;Building+AI+Solutions+for+Real-World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Analytics+Student;Machine+Learning+Enthusiast;Computer+Vision+Developer;Data+Science+Learner;Building+AI-Powered+Solutions" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Analytics** at MIT ADT University
+🎓 B.Tech in Artificial Intelligence & Analytics at MIT ADT University
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision and Full-Stack Development.
+🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Data Science.
 
-💡 I enjoy building intelligent systems that solve real-world problems through AI and software engineering.
+💻 Currently expanding my skills in Full-Stack Development, Deep Learning, and Software Engineering.
+
+🌱 Learning every day through projects, problem-solving, and continuous experimentation.
 
 ---
 
-## 🛠️ Tech Stack
+### 💡 Skills & Technologies
+
+**Languages**
+
+Python • Java • C++ • C • JavaScript
+
+**AI & Data Science**
+
+Machine Learning • Deep Learning • Computer Vision • TensorFlow • OpenCV • Pandas • NumPy • Scikit-Learn
+
+**Web Development**
+
+HTML • CSS • JavaScript • React • REST APIs
+
+**Tools**
+
+Git • GitHub • MySQL • VS Code • Google Colab
+
+**Core Concepts**
+
+Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,react,nodejs,mysql,git,github,vscode,tensorflow" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-🚁 **Semantic Segmentation of Aerial Drone Imagery**
-
-🦴 **Bone Age Detection using Deep Learning**
-
-🧠 **Brain Computer Interface Research Project**
-
-🏭 **AI Powered Smart Attendance System**
-
-📚 **BookSphere – Full Stack Online Bookstore**
-
-
-
-
-## 🌱 Currently Learning
-
-* Data Structures & Algorithms
-* React & REST APIs
-* Deep Learning
-* Computer Vision
-* System Design
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Building Intelligent Systems That Solve Real-World Problems
+### 🎯 Current Focus
+
+Machine Learning • Computer Vision • React • DSA • Placement Preparation
+
+<br>
+
+⭐ Turning ideas into intelligent solutions through code.
 
 </div>
