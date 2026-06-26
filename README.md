@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
-# 👋 Hi, I'm Aryan Kanchan
+#  Hi, I'm Aryan Kanchan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Analytics+Student;Machine+Learning+Enthusiast;Computer+Vision+Developer;Data+Science+Learner;Building+AI-Powered+Solutions" />
 
@@ -10,19 +10,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-🎓 B.Tech in Artificial Intelligence & Analytics at MIT ADT University
+ B.Tech in Artificial Intelligence & Analytics at MIT ADT University
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Data Science.
+ Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Data Science.
 
-💻 Currently expanding my skills in Full-Stack Development, Deep Learning, and Software Engineering.
+ Currently expanding my skills in Full-Stack Development, Deep Learning, and Software Engineering.
 
-🌱 Learning every day through projects, problem-solving, and continuous experimentation.
+ Learning every day through projects, problem-solving, and continuous experimentation.
 
 ---
 
-### 💡 Skills & Technologies
+###  Skills & Technologies
 
 **Languages**
 
@@ -46,7 +46,7 @@ Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -61,12 +61,12 @@ Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer
 
 <div align="center">
 
-### 🎯 Current Focus
+### Current Focus
 
-Machine Learning • Computer Vision • React • DSA • Placement Preparation
+Machine Learning • Computer Vision • React • DSA 
 
 <br>
 
-⭐ Turning ideas into intelligent solutions through code.
+ Turning ideas into intelligent solutions through code.
 
 </div>
