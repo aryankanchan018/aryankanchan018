@@ -33,40 +33,45 @@
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠 Tech Stack
 
 ### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Python
+- Java
+- C++
+- C
+- JavaScript
 
 ### AI & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- TensorFlow
+- OpenCV
+- Pandas
+- NumPy
+- Scikit-Learn
 
 ### Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+- REST APIs
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### Tools & Platforms
+- Git
+- GitHub
+- MySQL
+- VS Code
+- Google Colab
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
 
 ---
 
@@ -99,20 +104,6 @@
 
 ---
 
-## 🔥 Current Focus
-
-🤖 Machine Learning
-
-👁️ Computer Vision
-
-⚛️ React Development
-
-📚 Data Structures & Algorithms
-
-☁️ Cloud Computing
-
----
-
 ## 🚀 Featured Projects
 
 ### 🦴 Bone Age Detection System
@@ -129,21 +120,20 @@ Modern responsive portfolio showcasing projects, skills, and achievements.
 
 ---
 
+## 🔥 Current Focus
+
+- Machine Learning
+- Computer Vision
+- React Development
+- Data Structures & Algorithms
+- Cloud Computing
+
+---
+
 ## 📫 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/aryan-kanchan-47709725b">
-<img src="https://img.shields.io/badge/LinkedIn-Aryan%20Kanchan-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/aryankanchan018">
-<img src="https://img.shields.io/badge/GitHub-aryankanchan018-black?style=for-the-badge&logo=github" />
-</a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/aryan-kanchan-47709725b
+- GitHub: https://github.com/aryankanchan018
 
 ---
 
